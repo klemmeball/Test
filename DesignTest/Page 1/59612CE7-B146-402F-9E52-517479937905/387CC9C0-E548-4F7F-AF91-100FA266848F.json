@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "387CC9C0-E548-4F7F-AF91-100FA266848F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1D98C04-3D62-4CDD-B71B-63BE6DCADFC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFF4BDE7-4833-4C0D-AE85-E8DFD4B10522",
+    "height": 60,
+    "width": 60,
+    "x": 27,
+    "y": 199
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Icon 60 x 60",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0D48BAD-D4AD-49F6-9561-C0E92D1060D4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E577AFB8-9CB7-46B6-8354-010943515BDE",
+  "verticalSpacing": 0
+}
